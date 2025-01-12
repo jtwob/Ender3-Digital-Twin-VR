@@ -10,3 +10,4 @@ Here is a link to the video of the project running. [Link](https://youtu.be/wmO6
 - Polish the VR space
 - Implement an interpolative filament generation algorithm
 - Optimize the existing process to speed up the simulation for education purposes (i.e. 1000x print speed)
+- Convert the project into a portable simulation, useful to engineering students, and the curious
